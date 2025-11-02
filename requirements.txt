@@ -2,3 +2,7 @@ numpy
 pandas
 ipykernel
 matplotlib
+seaborn
+scikit-learn
+mlxtend
+imblearn
